@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#gartner {
+  background-image: url("/images/gartner.png");
+  background-size: contain;
+  box-shadow: inset 0 0 0 2000px rgba(186, 104, 200, 0.2);
+}
+
+#on-demand {
+  background-image: url("/images/on-demand.png");
+  background-size: contain;
+  box-shadow: inset 0 0 0 2000px rgba(186, 104, 200, 0.2);
+}
+
+#zoom-ai {
+  background-image: url("/images/zoom-ai.png");
+  background-size: contain;
+  box-shadow: inset 0 0 0 2000px rgba(186, 104, 200, 0.2);
+}
+
+#tos {
+  background-image: url("/images/tos.png");
+  background-size: contain;
+  box-shadow: inset 0 0 0 2000px rgba(186, 104, 200, 0.2);
+}
+
+#slack-teams {
+  background-image: url("/images/slack-teams.png");
+  background-size: contain;
+  box-shadow: inset 0 0 0 2000px rgba(186, 104, 200, 0.2);
+}
